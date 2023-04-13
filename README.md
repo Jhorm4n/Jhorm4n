@@ -1,16 +1,28 @@
-### Hi there 👋
+# Jhorman Andres Bustamante Benitez
 
-<!--
-**Jhorm4n/Jhorm4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Descripción personal
 
-Here are some ideas to get you started:
+Tengo 19 años actualmente vivo en **Medellín-Colombia**, ahora mismo soy estudiante y soy laguien muy interesado en la tecnologia, con gran motivacion y abierto para conocer e aprender nuevos conocimientos, soy bastante solidario con las demás personas y no tengo problema al trabajar independientemente o en equipo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estudios 
+- Tecnico en desarrollo
+- Tecnologia en analisís y desarrollo de software (Actualmente estudiando)
+
+## Comandos de consola
+
+Tabla con los comandos y descripción de la función que ejerce dicho comando.
+
+| Comandos | Función |
+| ------ | ------ |
+| ```Ls``` | Este comando nos informa en que carpeta e archivo estamos ubicados. |
+| ```Clear``` | Este comando limpia la terminal de comandos. |
+| ```Mkdir``` | Este comando crea directorios de manera mas facíl y rapída. |
+| ```Code``` | Este nos abre el archivo que seleccionemos de manera mas facíl y rapída.  |
+| ```Cd``` | Este nos ayuda a ubicarnos en el directorio que deseemos. |
+
+### Comandos alias
+| Comando | Alias | Función |
+| ------ | ------ | ------ |
+|```clear```|```cl``` | Este nos facilita a la hora de limpiar nuestra terminal de comandos. |
+|```npm start```|```npms``` | Este nos facilita a la hora de iniciar los servidores de node. |
+
